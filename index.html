@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width = device-width", initial-scale="1	">
+		<title>Arts and Drafts</title>
+		<meta name="author" content="Ruan pablo de Almeida">
+		<meta name="description" content="Site com dicas basicas e técnicas para ajudar a progressão de iniciantes no campo do desenho">
+		<meta name="keywords" content="desenho, técnicas de desenho, técnicas, dicas, arte">
+		<meta name="robots" content="noindex, nofollow">
+		<link rel="shortcut icon" href="pencil.ico">
+		<link rel="stylesheet" href="style.CSS?v=10">
+	</head>
+
+	<body>
+		<audio>
+			<source src="bgm_125.wav" type="audio/wav">
+		</audio>
+		<header id="topo">
+			<span id="cabeçalho">
+				<p id="txt_cab1">Arts and Drafts</p>
+				<br>
+				<p id="txt_cab2">O guia para o início de sua jornada no mundo dos desenhos</p>
+				<br>
+			</span>
+			<hr>
+		</header>
+		
+					<input id="btn1" type="submit" value="IR AO FINAL DA PÁGINA">
+					<br>
+					<input id="btn3" type="submit" value="ESCONDER IMAGENS">
+					
+					<input id="btn4" type="submit" value="MOSTRAR IMAGENS">
+					<br>
+					<input id="btn5" type="submit" value="BACKGROUND - COR SÓLIDA">
+					<br>
+					<input id="btn6" type="submit" value="MUDAR COR DOS BOTÕES">
+					
+					<input id="btn7" type="submit" value="TROCAR O TEXTO DO CABEÇALHO">
+					<br>
+					<input id="btn8" type="submit" value="ATIVAR MUSICA DE FUNDO">
+					
+	 
+		<section>
+				<h1><em>Introdução</em></h1>
+						<p class="texto_corpo">
+							Olá! Você recentemente tomou interesse pelo ofício das artes? Ou talvez está retornando a essa atividade após muito tempo sem prática? Qualquer que seja o caso, se seu interesse é a arte de desenhar, veio ao lugar certo. Nesse site, abordaremos técnicas e dicas relacionadas a essa arte, para dar um impulso àqueles que estão apenas iniciando, e até mesmo relembrar aos mais veteranos coisas das quais podem ter se esquecido ao longo da jornada;
+							Venha conosco estimular seu instinto criativo!
+						 </p>
+						<img class="imagem" src="brain.png" alt="Cartoon - cérebro tendo uma ideia" title="Eureka!!!">
+					</div>
+					<br>
+				<h1><em>Inicio</em></h1>
+					<br>
+					<div >
+							<p class="texto_corpo">
+								Logo de início é importante ressaltar que o aprendizado dessa arte não é simples; serão necessários muito esforço, dedicação e perseverança; É uma habilidade que levará bastante tempo para ser aprendida, e esse processo envolverá muitas falhas antes que se obtenha um resultado satisfatório. Tendo isso em mente, saiba que essa prática também possui lados positivos, tais como:
+							</p>
+							<br>
+							<ul id="lista_nao_ordenada">
+								<li>A melhora de sua criatividade;</li>
+								<br>
+								<li>Aguça a mente e desenvolve a memoria;</li>
+								<br>
+								<li>Pode ajuda-lo a melhorar suas habilidades comunicativas;</li>
+								<br>
+								<li>Pode ser utilizado como um <em>hobby</em>, para assim gerar diversão, o que indiretamente ajudará no aumento da positividade, do relaxamento e na melhoria de seu bem-estar emocional;</li>
+								<br>
+								<li>Dependendo de seu nivel de proficiencia, há a possibilidade de se gerar uma consideravel renda com a venda de sua arte, especialmente com a influencia de redes sociais e a recente popularização de serviços como o <em>Patreon;</em></li>
+								<br>
+								<li>etc.</li>
+							</ul>
+							<br>
+							<p class="texto_corpo">
+							Em suma, é uma habilidade que demandará tempo, esforço e dedicação, mas que se aprendida, irá recompensa-lo por cada segundo gasto em sua aquisição
+							</p>
+					</div>
+					<hr>
+					<h1><em>Primeiros passos</em></h1>
+					<div >
+						<p class="texto_corpo">
+						Agora que você está determinado a aprender como produzir suas próprias obras de arte, vamos começar por uma das escolhas mais cruciais dessa jornada: O tipo de arte que você irá produzir; essa escolha é importante pois irá ditar os materiais que você precisará adquirir para poder dar continuidade à sua prática.
+						Para não complicar as coisas além do necessário faremos aqui uma divisão simples:	
+						</p>
+						<br>
+						<div id="arteVSarte">	
+							<p>Arte tradicional</p>
+							<br>
+							<p id="VS"><strong>VS</strong></p>
+							<br>
+							<p>Arte digital</p>
+						</div>
+						<br>
+						<p class="texto_corpo">
+							A <em>Arte tradicional</em>, em termos simples, refere-se ao uso de materiais físicos, tais como papel e lápis, ou até mesmo tinta e uma tela de lona, por exemplo, para a realização da expressão artistica; 
+							<br>
+							<p class="texto_corpo"><em>Pontos positivos:</em></p>
+							<br>
+								<ul id="lista_nao_ordenada">
+									<li>Muitos podem ja ter se acostumado com o desenho feito com lápis e papel, o que torna esse estilo mais familiar, fator que pode tornar o aprendizado mais agradavel e fluído;</li>
+									<br>
+									<li>Dependendo dos materiais escolhidos, pode ser mais economicamente acessível;</li>
+									<br>
+									<li>Pode ser feita a qualquer hora e em qualquer lugar, pois independe de eletricidade e/ou equipamentos eletrônicos adicionais</li>
+								</ul>
+							<br>
+							<p class="texto_corpo"><em>Pontos negativos:</em></p>
+							<br>
+								<ul id="lista_nao_ordenada">
+									<li>Assim como o preço pode ser baixo dependendo dos materiais escolhidos, ele também pode ser astronomicamente caro baseado no tipo de arte que deseja fazer, a qual pode exigir materiais bem mais caros; (Exemplo: Pinturas feitas com tinta a óleo)</li>
+									<br>
+									<li>É mais trabalhosa se comparado à arte digital;</li>
+									<br>
+									<li>É menos "piedosa" com erros se comparado à arte digital, então tenha em mente que nos estagios finais de uma obra, qualquer erro, por mais minúsculo que seja, poderá arruinar completamente horas e horas de seu trabalho</li>
+								</ul>	
+						</p>
+						<br>
+						<p class="texto_corpo">
+							A <em>Arte digital</em> refere-se ao uso de um tablet de desenho/mesa digitalizadora em conjunto com um programa de computador para a criação das obras; 
+							<p class="texto_corpo"><em>Pontos positivos:</em></p>
+								<br>
+								<ul id="lista_nao_ordenada">
+									<li>Os programas possuem diversas ferramentas que auxiliam desde a criação da obra, até o conserto de algum erro, ou a adição de algum efeito visual ao final do processo;</li>
+									<br>
+									<li>Por ser digital, o armazenamento das obras não ocupará espaço físico, além de poder ser compartilhada muito mais facilmente, com o auxílio de redes sociais, sites que hospedam imagens, etc;</li>
+									<br>
+									<li>O tablet/a mesa digitalizadora pode aparentar ter um preço um pouco alto, mas apresenta uma boa relação custo-beneficio e é um ótimo investimento a longo prazo, visto que uma vez comprada, poderá ser utilizada para a criação de várias obras sem a necessidade da compra de materiais extras, ou mesmo manutenção (dependendo é claro do cuidado do usuário para com a ferramenta)</li>
+									<br>
+								</ul>
+							<br>
+							<p class="texto_corpo"><em>Pontos negativos:</em></p>
+							<br>
+								<ul id="lista_nao_ordenada">
+									<br>
+									<li>Mesmo teóricamente sendo um bom investimento em relação custo-beneficio, o preço de alguns modelos específicos de tablet/mesa digitalizadora, além da necessidade de um sistema operacional e de um programa de desenhos podem tornar o preço inacessível para alguns;</li>
+									<br>
+									<li>A curva de aprendizado de alguns programas de desenho são bem íngremes(isso significa que é dificil e demanda certo tempo para se aprender até mesmo o básico do programa);</li>
+									<br>
+									<li>Apesar de existirem ótimos programas gratuitos, a maioria dos programas mais aclamados pela comunidade artistica são pagos, e caso deseje obte-los tenha em mente que programas mais completos, a exemplo do Adobe Photoshop, apresentam preços consideravelmente altos</li>
+									<br>
+								</ul>	
+						</p>
+						<br>
+						<p class="texto_corpo">
+							Em suma, ambos os tipos possuem seus pontos positivos e seus pontos negativos; escolha aquele com o qual você se sentirá mais confortavel;
+							<br>
+							E sempre lembre-se: "Um mal trabalhador é aquele que sempre culpa suas ferramentas"
+							<br>
+							Trocando em miúdos, ter em mãos as tintas mais caras, ou o tablet de desenhos de última geração não irá te garantir uma habilidade sobrenatural para a criação de obras artisticas; certamente podem facilitar seu aprendizado, mas o bom artista é aquele que sabe explorar e extrair o máximo potêncial dos materiais que estão à sua disposição.
+						</p>
+					</div>
+					<hr>
+					<h1><em>Após a escolha de seu estilo</em></h1>
+					<div >	
+						<p class="texto_corpo">
+							Agora que já tem em mente seu estilo favorito vamos dar continuídade;
+							A primeira parte no aprendizado desse oficio é considerada por muitos a mais chata/irritante, mas que também é, porém, uma das mais importantes.
+							Estamos falando do estudo da geometria espacial.
+							A habilidade de enxergar as figuras geométricas em um espaço 3d será essencial para o entendimento de conceitos que veremos mais a frente; sua importância se deve ao fato de que a visualização de um espaço tridimensional é essencial para entender conceitos basicos do desenho, tais como <em>forma, perspectiva, ponto de fuga, luz e sombra</em>, e até mesmo a <em>anatomia</em>.
+						</p>
+						<img class="imagem" src="https://www.artinstructionblog.com/wp-content/uploads/2009/08/missingpic.gif" alt="Exercício de luz e sombra aplicado a partir de uma esfera" title="Exercício básico de luz e sombra em uma esfera">
+						<img class="imagem margintop" src="https://i.pinimg.com/600x315/d6/37/d5/d637d5898350151a2a16012938c89605.jpg" alt="Exemplo de um corpo construído a partir de figuras geométricas" title="Exemplo da construção de uma figura humanoide a partir de formas geométricas simples">
+					</div>
+					<hr>
+					<br>
+					<h1><em>Explicando os básicos</em></h1>
+					<div >
+					<br>
+						<h2>Linha e forma</h2>
+						<br>
+							<p class="texto_corpo">
+								A linha é o elemento básico de todo desenho; pode assumir váriadas formas e espessuras, e pode servir como elemento de separação/diferenciação (Diferenciar luz e sombra; diferenciar espaço positivo e espaço negativo);
+							</p>
+							<img class="imagem" src="https://gartic.com.br/imgs/mural/pe/peragule/a-linha-perfeita.png" alt="Imagem de uma linha" title="Linha">
+							<br>
+							<p class="texto_corpo">
+								A forma é o espaço contido na(s) linha(s) desenhada(s); É a forma que irá definir a identidade do objeto;
+							</p>
+							<img class="imagem" src="https://raskrasil.com/wp-content/uploads/raskraska-geometricheskie-figuri23.jpg" alt="Variadas formas geométricas" title="Formas">
+							<br>
+						<h2>Perspectiva e ponto de fuga</h2>
+						<br>
+							<p class="texto_corpo">
+								A perspectiva é uma técnica utilizada a fim de aproximar a obra do "real"; ela auxilia a aquisição pela obra de um sentimento de "forma", "distância", "profundidade".
+							</p>
+							<img class="imagem" src="https://cdn.domestika.org/c_fit,dpr_auto,f_auto,t_base_params,w_820/v1595423903/content-items/005/282/227/PERSPECTIVA5-original-original.jpg?1595423903" alt="Cubos desenhados em perspectiva" title="Exemplo de perspectiva">
+							<br>
+							<p class="texto_corpo">
+								Ponto de fuga se trata da relação entre o tamanho do objeto e a distância desse objeto com o telespectador; basicamente, objetos que estão mais próximos de nós aparentam ser maiores do que realmente são, assim como objetos mais distantes de nós aparentam serem menores do que realmente são; a posição em que o objeto se encontra em relação à linha do horizonte (o ponto de intersecção entro o solo e o céu) é denominada ponto de fuga. 
+							</p>
+							<img class="imagem" src="https://www.sobrearte.com.br/desenho/perspectiva/perspectiva_imagens/elementos004.gif" alt="exemplo do ponto de fuga" title="Ponto de fuga">
+							<br>
+							<p class="texto_corpo">
+								Um dos melhores jeitos de se treinar sua perspectiva é seguir essa simples lista de 5 passos:
+							</p>
+							<br>
+							<ol id="listaordenada">
+								<li>Desenhe a linha do horizonte (uma linha reta na horizontal) em sua folha;</li>
+								<br>
+								<li>Logo após, desenhe o local que você deseja que se torne o ponto de fuga;</li>
+								<br>
+								<li>Agora, faça o lado frontal do cubo, podendo desenha-lo tanto acima, quanto abaixo da linha do horizonte;</li>
+								<br>
+								<li>Ligue os vertices ao ponto de fuga;</li>
+								<br>
+								<li>Por fim, termine de desenhar o cubo</li>
+							</ol>
+							<div>
+								<img class="imagem" src="https://miro.medium.com/max/1300/0*NOpliSsFfGfTAPGm.jpg" alt="Cubo em perspectiva" title="Passos 3 e 4">
+								<img class="imagem" src="https://comodesenharbemfeito.com.br/wp-content/uploads/2019/10/desenho-em-perspectiva-com-um-ponto-de-fuga-passo-5.jpg" alt="Cubo em perspectiva (completo)" title="Passo 5">
+							</div>
+
+						<h2>Luz e sombra</h2>
+						 	<p class="texto_corpo">
+						 		São os elementos que darão ao desenho (representado em um espaço bidimensional) a característica de volume, ou seja, dará ao objeto bidimensional um efeito tridimensional, gerando assim a ilusão de coisas como profundidade, ou até mesmo textura. 
+						 	</p>
+						 	<img class="imagem" src="https://pm1.narvii.com/6637/4abd3a608e3114d5f4cb8295ee62f57a94c8047c_00.jpg" alt="Figuras geométricas com aparência tridimensiona" title="Aplicação pratica da técnica de luz e sombra">
+						 	<br>
+							<p >
+								O treino de luz e sombra é, em seu cerne, simples; caso deseje, pode treinar sua proficiencia em luz e sombra baseando-se em ambas a imagem acima e a lista apresentada abaixo:
+							</p>
+							<br>
+								<ol id="listaordenada">
+									<li>Primeiramente, desenhe sua figura geométrica, preferencialmente, uma esfera;</li>
+									<br>
+									<li>Em seguida, decida em qual direção etá ocorrendo a incidencia de luz;</li>
+									<br>
+									<li>Com seu lápis, vá levemente rabiscando a área na qual a luz inside com menor intensidade (quanto menor a incidencia de luz, mais forte deverá ser o traço)</li>
+									<li>Pensando na luz como um vetor, pense na projeção que esse objeto projetará na superfice em que está localizado</li>
+									<br>
+									<li>Caso deseje, desenhe pequenos circulos em áreas com muita incidencia de luz para simular o reflexo (esses pequenos circulos não devem possuir nenhum sombrado) </li>
+								</ol>
+							<br>
+							<div>
+								<img class="imagem" src="https://i.pinimg.com/originals/a1/19/24/a1192411a5429d52a38c48bf675784af.jpg" alt="maçã tridimensional" title="Exercício de Luz e Sombra">
+							</div>
+							<br>
+						<h2>Composição</h2>
+							<p class="texto_corpo">
+								Em termos simples, composição é a relação entre os elementos da figura; é o arranjo dos elementos de modo a se ter uma "forma"; É importante não só para a coesão do trabalho artístico, como também para efeitos como o contraste, o ritmo (atalho visual que o cérebro usa ao analizar, por exemplo, um conjunto de folhas em uma árvore, ou o conjunto de flores em um campo para que não seja necessário analizar um por um), e o ponto focal/ponto de interesse.
+							</p>
+							<img class="imagem" src="https://designculture.com.br/wp-content/uploads/2017/11/aaaa.png" alt="Imagem para a explicação de composição" title="Exemplo de composição">
+							<br>
+							<p class="texto_corpo">
+								O treino da composição é mais trabalhoso quando comparado aos anteriores; é necessário que se estude e tenha em mente os conceitos de formas positivas, espaço negativo e comprimento e largura relativos; obtendo esses conhecimentos, naturalmente você irá começar a adquirir o conceito de composição;
+							</p>
+							<br>
+						<h2>Anatomia</h2>
+						 	<p class="texto_corpo">
+						 		Mais voltado para aqueles que desejam desenhar figuras humanoides, ou até mesmo animais, ao invés de paisagens; em termos simples, se estuda a anatomia, tanto humana quanto animal, para que se possa entender a forma e a estrutura dos corpos e como eles funcionam e como se formam; isso irá proporcionar uma representação mais verossímil desses seres em sua obra.
+						 	</p>
+						 	<img class="imagem" src="https://i.pinimg.com/originals/e7/5e/cf/e75ecfb17ac6a5af98253ead77bb00bf.jpg" alt="Musculos do corpo humano" title="Modelo anatômico do corpo humano">
+							<br>
+							<p class="texto_corpo">
+								De longe o conceito mais trabalhoso; Não há atalhos para se aprender anatomia; é um assunto extenso e que demandará tempo, esforço e muito treino; Pode ser aprendido através da pratica e observação. Busque analisar livros de ciência com figuras humanas, obras de artistas como Michelangelo ou Leonardo DaVinci, os quais possuem muitas obras com um dos principais aspectos sendo a anatomia humana, e busque livros especializados no estudo de anatomia, mas acima de tudo pratique, pratique, PRATIQUE!!!; Apenas através da prática poderão ser aprendidos os detalhes dessa obra magnífica que é o corpo humano.
+							</p>
+							<br>
+							<img class="imagem" src="https://images-na.ssl-images-amazon.com/images/I/41lHGSp5aCL._SX351_BO1,204,203,200_.jpg" alt="Livro de anatomia" title="Anatomia artistica">
+							<img class="imagem" src="https://s2.glbimg.com/C-hO7PBKlE0z8SOZRFWF81G8dUo=/smart/e.glbimg.com/og/ed/f/original/2019/10/16/61950733_1048112612050521_9041491844828217521_n.jpg" alt="O homem vitruviano, de Leonardo DaVinci" title="O homem vitruviano, de Leonardo DaVinci">
+					</div>
+					<hr>
+					<br>
+					<h1><em>Dicas</em></h1>
+					<div >
+						
+						<p class="texto_corpo">
+							Agora que vimos os conceitos básicos, está na hora de dar umas dicas, tanto para ajudar aqueles que precisam de um "empurrãozinho" para darem o primeiro passo, quanto aqueles que ja estão em um nivel mais avançado, porém se esqueceram dos básicos, ou estão estagnados e necessitam de auxílio. 
+						</p>
+						<h2>Utilize referencias</h2>
+							<p class="texto_corpo">
+								É de extrema importância o uso de referencias; algumas pessoas na comunidade erroneamente tratam essa ação como um taboo, algo que nunca deveria ser feito, mas esses individuos não podiam estar mais longe da verdade. Até mesmo artistas famosos utilizam referencias; tanto para quem é calouro, como para os veteranos, é imprescindivel que se usem referencias; elas não só tornarão sua obra mais consistente, como também o ajudarão a chegar em resultados mais satisfátorios; especialmente para os iniciantes, pois os ajudará a memorizar os conceitos basicos;
+							</p>
+							<img class="imagem" src="https://s31531.pcdn.co/wp-content/uploads/2011/12/tam_may11_artistslife1.jpg" alt="Artista usando foto de referência para sua pintura" title="Artista usando foto de referência para sua pintura">
+							<br>
+							<p class="texto_corpo">
+								Porém, é imprescindivel também que se faça uma importante distinção. Use referências, mas não faça <em>tracing</em> (em tradução livre, contornar); se você for um iniciante, é uma ofensa menos grave, pois pode ser utilizada para ajudar a reforçar em sua mente os conceitos basicos, mas deve-se ter cautela, para não cair em uma zona de conforto; 
+								<br>
+								Para os veteranos principalmente, evitem fazer tracing com todas as suas forças, especialmente se há transações monetárias envolvidas; não só você estará plagiando outro criador, possivelmente até lucrando com isso, como também estará prejudicando suas próprias capacidades.
+							</p>
+							<img class="imagem" src="https://artofed-uploads.nyc3.digitaloceanspaces.com/2017/03/Image1-1024x621.jpg" alt="Homem copiando desenho" title="Tracing/contorno é ruim para o seu aprendizado!">
+							<br>
+						<h2>Pense em formas geométricas</h2>
+							<p class="texto_corpo">
+								Não apenas copie o que você vê em sua referência; Tente "quebrar" a imagem em várias partes menores e verá que tudo pode ser representado a partir de formas geométricas simples; essa dica é util para você ser capaz de representar melhor a perspectiva, a ilusão de volume e profundidade, até mesmo para desenhar sem referencias, caso seja necessário 
+							</p>
+							<img class="imagem" src="https://kapundahigh.weebly.com/uploads/6/1/5/4/61545621/924e5b39e872cd18cfb43944a3bbb3a3_orig.jpg" alt="Cachorro desenhado com formas geométricas" title="Exemplo da 'desconstrução' de uma imagem de um cachorro">
+							<br>
+						<h2>Pratique todos os dias, ou ao menos quando possível</h2>
+							<p class="texto_corpo">
+								A prática leva à perfeição; praticar todos os dias o ajudará a criar memória musculas, além da memorização dos conceitos basicos, e pouco a pouco, sua habilidade artistica começará a evoluir;
+							</p>
+							<img class="imagem" src="https://st4.depositphotos.com/6930442/20968/v/600/depositphotos_209682746-stock-video-an-office-employee-can-not.jpg" alt="Homem cercado por várias folhas" title="Pratique todos os dias!">
+							<br>
+						<h2>Não se abata com as falhas</h2>
+							<p class="texto_corpo">
+								Ao contrário do que muitos podem pensar, as falhas são um dos aspectos mais importantes, se não o mais importante no estagio inicial de aprendizado; a medida que se comete erros em suas obras, seu subconsciente irá aprender com esses erros (e baseado em seus estudos!), e a cada vez que você errar, sua habilidade irá crescer mais e mais;
+							</p>
+							<img class="imagem" src="https://urbanarts.vteximg.com.br/arquivos/ids/4778692/quadro-aprenda-com-os-erros.jpg?v=637201467172930000" alt="Mensagem motivacional" title="Aprenda com os erros do passado!">
+							<br>
+						<h2>Evite o <em>"burnout"<em></h2>
+							<p class="texto_corpo">
+							Um dos maiores perigos da vida de um artista, e uma armadilha que muitos iniciantes caem; o Burnout (em tradução livre, esgotamento) se caracteriza pela perda da vontade de continuar a criar qualquer obra, geralmente causado pelo cansaço mental, decorrente da pratica incessante; praticar não só é bom, como é necessário caso deseje progredir, porém, assim como em tudo na vida, é importante ter equilibrio; não exagere, pois ao inves de ajuda-lo a progredir, o excesso irá fazer com que você regrida, ou no mínimo, estagne em sua habilidade;
+							</p>
+							<img class="imagem" src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2020/07/16130611/burnout-capa.jpg" alt="Mulher em ambiente de trabalho, sofrendo de exaustão" title="Tome cuidado com a exaustão!">
+							<br>
+						<h2>Saia da zona de conforto</h2>
+							<p class="texto_corpo">
+							Quando perceber que está sempre desenhando o mesmo personagem, ou talvez a mesma paísagem, a mesma casa, a mesma mobilia, pode ser que você tenha caído em uma zona de conforto, um estado no qual sua habilidade estagna, para de progredir e se fixa apenas naquilo em que o seu subconsciente considera que você ja domina completamente, ou ao menos possui dominio consideravel; 
+							<br>
+							Isso é extremamente perigoso, pois pode dar a falsa sensação de progressão, quando na realidade, você continua preso no mesmo local; o modo de consertar isso é sempre se forçar a variar seu catálogo: desenhar um personagem com estrutura corporal diferente, ou até mesmo uma pose mais exótica, ou no caso de paísagens, desenhar aquelas das quais você ainda não possui domínio, ou apenas ainda não tentou;
+							</p>
+							<img class="imagem" src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2016/06/20135509/1-Zona-de-Conforto.jpg" alt="Peixe pulando entre dois aquarios" title="Liberte-se de sua zona de conforto!">
+							<br>
+						<h2>Procure inspiração de seus artistas favoritos</h2>
+							<p class="texto_corpo">
+							Quando estiver sem inspiração, procure relaxar, assista um filme que você goste, jogue um jogo, leia um livro, converse com seus amigos, ou mesmo escute uma musica; consumir uma mídia a qual você aprecia, especialmente nesse caso filmes, sejam <em>Live-action</em> ou de animação, cartoons, desenhos, pode dar aquele empurrãozinho que sua inspiração estava precisando;
+							</p>
+							<img class="imagem" src="https://pbs.twimg.com/media/EUTeGn1XQAA9rbd.jpg" alt="Hirohiko Araki pintando personagens de sua obra Jojo's Bizarre Adventure" title="Hirohiko Araki pintando personagens de sua obra Jojo's Bizarre Adventure">				
+							<br>	
+						<h2>Quando em dúvida, volte aos básicos</h2>
+							<p class="texto_corpo">
+							Nem sempre as técnicas extremamente elaboradas que você pode acabar vendo por ae em videos ou postagens serão as melhores nem irão produzir os melhores resultados; caso esteja em dúvida, ou mesmo caso o resultado não seja aquilo que você esperava, tente sempre aplicar as técnicas básicas; pode parecer mais chato e trabalhoso, pode até ser que realmente seja, mas muito provavelmente serão as mais efetivas, e com dedicação e esforço, irão providenciar os melhores resultados;
+							</p>
+							<img class="imagem" src="https://www.globalsearchinteractive.net/wp-content/uploads/2015/01/gsi-blog-back2basics.gif" alt="Quadro de giz com a frase 'De volta aos básicos'" title="Voltando às raízes">
+							<br>
+						<h2>Antes de produzir uma obra, faça uma pequena sessão de aquecimento</h2>
+							<p class="texto_corpo">
+								Pode parecer futil, porém, uma rápida sessão de aquecimento antes de uma sessão de desenho podem lhe proporcionar um desenho mais fluído, linhas mais consistentes e até mesmo maior rendimento por sessão; os resultados irão variar de pessoa para pessoa, porém vale a pena que você ao menos tente antes de seu próximo desenho.
+								Esse aquecimento consiste de desenhar vários circulos em rapida sucessão, não importando se eles saírem circulos perfeitos ou não;
+								Uma alternativa é desenhar várias linhas retas em paralelo, tentando sempre manter a mesma distância entre elas;
+							</p>
+							<img class="imagem" src="aquecimento2.png" alt="circulos" title="Exercício de aquecimento">
+							<br>
+					</div>
+					<hr>
+			</section>
+				<h1>Recomendações de canais</h1>
+				<div>
+					<p class="texto_corpo">
+						Esses são os canais que nos inspiraram a construir esse site que retrata não apenas os basicos do desenho, como também algumas dicas; esses canais apresentam várias dicas e truqes, em niveis superiores às tratadas aqui, que servirão bem a aqueles que buscam se aprofundar mais nessa prática, além do nivel tratado nesse site. 
+						<br>
+						Obs.: Vale lembrar que todos o canais citados abaixo, exceto o primeiro, necessitarão de ao menos um conhecimento intermediário de Inglês.
+					</p>
+					<h2>Canal Thiago Spyked/ Crás Conversa</h2>
+					<p class="texto_corpo">
+					 Esse é o canal de um quadrinista brasileiro, que posta videos com várias dicas extremamente uteis para artistas de todos os níveis, além de, de tempos em tempos, promover desafios artísticos, para aqueles que quiserem testar suas habilidades;
+					 Seu canal pode ser acessado clicando no icone abaixo.
+					</p>
+					<a href="https://www.youtube.com/user/CrasConversaOficial" target="_blank">
+						<img class="imagem" src="crasconversa.png" alt="icone do canal CrasConversaOficial" title="Canal Thiago Spyked/Crás Conversa">
+					</a>
+					<br>
+					<h2>Canal Ethan Becker</h2>
+					<p class="texto_corpo">
+					Apesar de seu humor um pouco mais ácido, e níveis de sarcarsmo que dificultam saber em quais videos ele está falando sério ou apenas brincando, esse artista estadunidense proporciona não apenas dicas extremamente valiosas, como também recomenda em seus vídeos vários artistas extremamente talentosos, os quais podem servir de inspiração àqueles que estão estagnados ou apenas em busca de novos estilos de desenho; Assim como o canal acima, Ethan também propõe desafios artistiscos ocasionalmente; 
+					Seu canal pode ser acessado clicando no icone abaixo.
+					</p>
+					<a href="https://www.youtube.com/channel/UCwmDCkPQojch5khdMYCb0EA" target="_blank">
+						<img class="imagem" src="EthanBecker.png" title="Canal Ethan Becker">
+					</a>
+					<br>
+					<h2>Canal LavenderTowne</h2>
+					<p class="texto_corpo">
+					Essa artista com estilo cartoonesco e voz suave produz não apenas videos para aqueles que precisam de dicas em sua jornada, como também videos de entretenimento, geralmente baseados na transformação de alguma peça da cultura pop em uma de suas obras com seu estilo característico e extremamente reconhecivel.
+					Seu canal pode ser acessado clicando no icone abaixo.
+					</p>
+					<a href="https://www.youtube.com/user/HariSaysMeh" target="_blank">
+						<img class="imagem" src="lavendertowne.png" alt="icone do canal LavenderTowne" title="Canal LavenderTowne">
+					</a>
+					<br>
+					<h2>Canal Drawfee</h2>
+					<p class="texto_corpo">
+					Diferente dos canais citados acima, esse canal não oferece dicas de desenho, servindo primariamente como um meio de entretenimento. A interação entre os quatro amigos que formam a personalidade do canal por si só já proporciona consideravel diversão, além dos desenhos incriveis que podem ser vislumbrados no background.
+					Clique no icone abaixo para acessar o canal. 	
+					</p>
+					<a href="https://www.youtube.com/user/Drawfee" target="_blank">
+						<img class="imagem" src="drawfee.png" alt="icone do canal Drawfee" title="Canal Drawfee">
+					</a>
+				</div>
+				<hr>
+				<br>
+				<h1><em>Avaliação e sugestões</em></h1>
+				<br>
+				<div id="formulário">
+					<p id="mensagem_final">
+						Agora que chegou ao final da página, gostaria de agradece-lo por visitar este site; abaixo segue um questionário que avalia sua satisfação com o conteúdo e estrutura do site; pedimos encarecidamente para que se possível, preencha-o e, ao final, deixe alguma sugestão, caso tenha.
+					</p>
+					<p id="mensagem_final">
+					Muito obrigado por sua visita, e até a próxima! 
+					</p>
+				</div>
+				<div id="formulário">
+				<form method="post">
+					<p class="questão">
+						<strong><em>O quão satisfeito você está com a qualidade do conteúdo apresentado?</em></strong>
+					</p>
+					<input class="Opção1" type="radio" name="Opção1" value="Extremamente satisfeito"> Extremamente satisfeito
+					<br>
+					<input class="Opção1" type="radio" name="Opção1" value="Moderadamente satisfeito"> Moderadamente satisfeito
+					<br>
+					<input class="Opção1" type="radio" name="Opção1" value="Pouco satisfeito"> Pouco satisfeito
+					<br>
+					<input class="Opção1" type="radio" name="Opção1" value="Insatisfeito"> Insatisfeito
+					<br>
+					<input class="Opção1" type="radio" name="Opção1" value="Moderadamente insatisfeito"> Moderadamente insatisfeito
+					<br>
+					<input class="Opção1" type="radio" name="Opção1" value="Extremamente insatisfeito"> Extremamente insatisfeito	
+					
+					<br>
+					</p>
+					<form method="post">
+						<br>
+						<p  class="questão">
+							<strong><em>O quão satisfeito você está com a quantidade de conteúdo apresentado?</em></strong>
+					</p>
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Extremamente satisfeito"> Extremamente satisfeito
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Moderadamente satisfeito"> Moderadamente satisfeito
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Pouco satisfeito"> Pouco satisfeito
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Insatisfeito"> Insatisfeito
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Moderadamente insatisfeito"> Moderadamente insatisfeito
+					<br>
+					<input class="Opção2" type="radio" name="Opção2" value="Extremamente insatisfeito"> Extremamente insatisfeito
+					</form>
+					<br>
+					<form method="post">
+					<p  class="questão">
+						<strong><em>O quão satisfeito você está com a estrutura do site?</em></strong>
+					</p>
+					<br>
+					<input class="Opção3" type="radio" name="Opção3"  value="Extremamente satisfeito"> Extremamente satisfeito
+					<br>
+					<input class="Opção3" type="radio" name="Opção3" value="Moderadamente satisfeito"> Moderadamente satisfeito
+					<br>
+					<input class="Opção3" type="radio" name="Opção3" value="Pouco satisfeito">Pouco satisfeito
+					<br>
+					<input class="Opção3" type="radio" name="Opção3" value="Insatisfeito"> Insatisfeito
+					<br>
+					<input class="Opção3" type="radio" name="Opção3" value="Moderadamente insatisfeito"> Moderadamente insatisfeito
+					<br>
+					<input class="Opção3" type="radio" name="Opção3" value="Extremamente insatisfeito"> Extremamente insatisfeito
+					</form>
+					<br>
+					<hr>
+					<form method="post">
+						<label id="label" for="msg">
+							<br>
+							<strong><u><em>Caixa de sugestões</em></u></strong>
+							<br>
+						</label>
+							<textarea id="msg" placeholder="Digite aqui suas sugestões de melhorias para o site" spellcheck="True" 
+							cols="20"
+							maxlength="1000000"
+							wrap="hard" 
+							autofocus="True"></textarea>
+						<br>
+						 				
+				</form>
+				<input id="botão" type="submit" value="Enviar"> 
+				</div>
+				<br>	
+					<input id="btn2" type="submit" value="VOLTAR AO TOPO DA PÁGINA">
+		</section>
+		<br>
+		<hr>
+		<footer id="final" class="footer">
+			<p >Copyright © 2020 | Ruan Pablo De Almeida</p>
+			<p >Instituto Federal de Educação, Ciência e Tecnologia - Sudeste, MG</p>
+			<p >Barbacena</p>
+		</footer>
+		<script src="javascript3.js"></script>
+	</body>
+</html>
