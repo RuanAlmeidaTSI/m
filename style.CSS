@@ -1,0 +1,398 @@
+	*{
+		padding: 0;
+		margin: 0;
+		border: 0;
+	}
+
+	#topo{
+		background-color: rgb(212,175,55, 0.9);}
+	#final{
+		background-color: rgb(212,175,55, 0.9);}
+
+	#cabeçalho{
+		font-family: Arial;
+		text-shadow: 2px 2px 8px #FF0000;
+		position: static;
+		text-decoration: bold;
+		text-decoration: italic;
+		text-align: center;
+		font-size:250%;
+		color: #000			}
+#btn1{
+  text-decoration: bold, underline;
+	text-align: center;
+	background: crimson;
+	width: 200px;
+	height: 30px;
+  	border: 2px solid #000;
+  	padding:auto;
+  	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 45%;
+ 
+}
+#btn2{
+	text-align: center;
+	background: crimson;
+	width: 200px;
+	height: 30px;
+  	border: 2px solid #000;
+  	padding:auto;
+  	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 45%;
+  
+}
+
+#btn3{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 42%;
+  	
+}
+#btn4{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+ 
+}
+
+#btn5{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+		margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 45%;
+ 
+}
+
+#btn6{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+ 	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 38%;
+}
+
+#btn7{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+	
+ 
+}
+
+#btn8{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+		margin-left: 46%;
+}
+
+#botão{
+			background-color: cyan;
+			border:3px solid #000;
+			border-style: line;
+			margin-left:47%;
+			height:50px; 
+			width:200px;
+			font-size: 30px;
+			text-decoration: bold;
+			text-decoration: italic;
+			
+			}
+#label{
+	text-align: center;
+	padding-left: 29%;
+	margin-top: 15%;
+}
+	#msg{
+			text-decoration-color: crimson;
+			border:8px solid #000;
+			border-style: double;
+			margin-top: 1%;
+			margin-left: 42%;
+			height:200px; 
+			width:300px;
+			}
+
+	body{
+		padding: auto;
+		letter-spacing: 2px;
+		font-family: arial;
+		text-align: justify;
+		font-size: 18px; 
+		background-color: #000000; /*É importante inserir a cor de fundo mesmo que haja uma imagem de fundo presente; no caso de a imagem de fundo não carregar, a cor aparecerá em seu lugar*/
+		background-image: url(https://naldzgraphics.net/wp-content/uploads/2012/08/1-Hi-Res.jpg);
+		background-size: 100%;
+		background-attachment: fixed;/*Não importando a direção do scroll da pagina, o background se manterá em uma posição única*/
+		background-repeat: no-repeat;/*Esse comando impede que a imagem de fundo se repita*/
+		cursor: crosshair;} /* Modifica o cursor para no lugar de uma seta, aparecer uma cruz*/
+		::selection {
+	    	background-color: #B22222;} /*A area selecionada pelo cursor irá assumir uma cor diferente do padrão azul; neste caso, assumirá a cor carmesim*/
+
+	}
+	.texto_corpo{
+		display: block;
+		position: relative;
+		text-align: justify-all !important;
+		column-count: 2;
+		column-fill: balance;
+		column-rule: 2px solid #000;
+		padding-left: 5%;
+		padding-right: 15%;
+	}
+
+	#arteVSarte{
+		padding-left: 25%;
+	}
+
+	#VS{
+		padding-left: 2%;
+	}
+#mesagem_final{
+	text-align: left;
+	padding-right: 50%;
+	margin-right: 0%:;
+}
+	h1{	
+		display: inline;
+		color: #3f888f;
+		text-decoration: underline;
+		text-decoration: bold;
+		text-decoration: italic;
+		padding-left: 1%;
+	}
+
+	h2{display: inline;
+		color: #40e0d0;			
+		text-decoration: underline;
+		padding-left: 2%
+	}
+
+	hr{color: #000;
+		border: solid 5px #000;
+		margin: auto;}
+	 
+	 #listaordenada{
+		background-color: rgb(0,255,255, 0.5);
+		margin-top: 2%;
+	 	margin-bottom:2%;
+	 	padding-left: 5%;} /*Este padding foi aplicado apenas para que a lista não ficasse grudada na borda da página, tornando parte dela ilegível*/
+
+	#lista_nao_ordenada{
+		background-color: rgb(0,255,255, 0.5);
+		background-color: 
+		margin-top: 4%;
+	 	margin-bottom:2%;
+		padding-left: 5%;} /*Este padding foi aplicado apenas para que a lista não ficasse grudada na borda da página, tornando parte dela ilegível*/
+	}
+
+	#formulário{
+	background-color: rgb(0,255,255, 0.5);}
+
+	.questão{
+		text-decoration: underline;
+		text-decoration: bold;
+		text-decoration: italic;
+		padding-bottom:3%; 
+		padding-top:3%;
+	}
+
+
+	.margintop{
+			margin-top: 5%; /*Comando adicionado para inserir um espaçamento entre as imagens, para que não fiquem "coladas" umas nas outras*/
+	}
+
+	.footer{
+		padding-left: auto;
+		position: static;
+		text-align: center;
+			}
+
+	.Opção1, .Opção2, .Opção3{
+			height:15px; 
+			width:15px;}
+
+
+	.imagem{
+		display: inline-block;
+		float:none;
+		padding-left: 25%;
+		width:500px; 
+		height:300px;
+		margin-top: 2%;
+		margin-bottom: 2%;
+		margin-left: 5%;
+		margin-right: 5%;}
+
+	@media (max-width:768px){
+
+	#cabeçalho{
+		font-family: comic sans MS;
+		}
+
+#btn1{
+
+	background: crimson;
+  	border: 2px solid #000;
+  	width: 175px;
+  	height: 30px;
+  	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 20%;
+ 
+}
+#btn2{
+	text-align: center;
+	background: crimson;
+
+  	border: 2px solid #000;
+  	padding:auto;
+  	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 20%;
+  
+}
+
+#btn3{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+	margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 20%;
+  	
+}
+#btn4{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+ 	margin-left: 20%;
+}
+
+#btn5{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+		margin-top: 2%;
+  	margin-bottom: 2%;
+  	margin-left: 20%;
+ 
+}
+
+#btn6{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+ 	margin-top: 2%;
+  	margin-bottom: 2%;
+  margin-left: 20%;
+}
+
+#btn7{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+	margin-left: 20%;
+}
+
+#btn8{
+	float: center;
+	text-align: center;
+	background: lime;
+	border: 2px solid #000;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+h1{	
+		display: inline;
+		color: #3f888f;
+		align-content: left;
+		text-decoration: underline;
+		text-decoration: bold;
+		text-decoration: italic;
+
+	}
+
+	h2{display: inline;
+		align-content: left;
+		color: #40e0d0;			
+		text-decoration: underline;
+		
+	}
+
+	hr{color: #000;
+		border: solid 5px #000;
+		;}
+
+#botão{
+			margin-right: 20%;
+			margin-left: 45%;
+			height:20px; 
+			width:50px;
+			font-size: 10px;
+			text-decoration: underline;
+			text-decoration: bold;
+			text-decoration: italic;
+			
+			}
+
+		.imagem{
+		display: inline-block;
+		position: static;
+		width:100px; 
+		height:90px;
+		}
+
+		body{
+			
+			width: 100%;
+			background: url(https://naldzgraphics.net/wp-content/uploads/2012/08/1-Hi-Res.jpg); 
+			background-attachment: fixed;
+			background-size: 100%;
+			font-family: arial;
+			text-align: justify;
+			align-content: center; 
+			font-size: 8px; 
+					}
+		.texto_corpo{
+		position: relative;
+		text-align: left !important;
+		column-count: 2;
+		column-fill: balance;
+		column-rule: 2px solid #000;
+		padding-left: 5%;
+		padding-right:10%;	
+	}
+
+		#msg{
+			border:2px solid #000;
+			border-style: solid;
+			margin-top: 5%;
+			margin-left: 30%;
+			margin-right: 5%;
+			height:100px; 
+			width:150px;
+			}
+
+
+	}
+
